@@ -1,0 +1,15 @@
+C:\Users\KRVC\RiderProjects\Гонцы\Гонцы\bin\Debug\net6.0\Гонцы.exe
+C:\Users\KRVC\RiderProjects\Гонцы\Гонцы\bin\Debug\net6.0\Гонцы.deps.json
+C:\Users\KRVC\RiderProjects\Гонцы\Гонцы\bin\Debug\net6.0\Гонцы.runtimeconfig.json
+C:\Users\KRVC\RiderProjects\Гонцы\Гонцы\bin\Debug\net6.0\Гонцы.dll
+C:\Users\KRVC\RiderProjects\Гонцы\Гонцы\bin\Debug\net6.0\Гонцы.pdb
+C:\Users\KRVC\RiderProjects\Гонцы\Гонцы\obj\Debug\net6.0\Гонцы.csproj.AssemblyReference.cache
+C:\Users\KRVC\RiderProjects\Гонцы\Гонцы\obj\Debug\net6.0\Гонцы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KRVC\RiderProjects\Гонцы\Гонцы\obj\Debug\net6.0\Гонцы.AssemblyInfoInputs.cache
+C:\Users\KRVC\RiderProjects\Гонцы\Гонцы\obj\Debug\net6.0\Гонцы.AssemblyInfo.cs
+C:\Users\KRVC\RiderProjects\Гонцы\Гонцы\obj\Debug\net6.0\Гонцы.csproj.CoreCompileInputs.cache
+C:\Users\KRVC\RiderProjects\Гонцы\Гонцы\obj\Debug\net6.0\Гонцы.dll
+C:\Users\KRVC\RiderProjects\Гонцы\Гонцы\obj\Debug\net6.0\refint\Гонцы.dll
+C:\Users\KRVC\RiderProjects\Гонцы\Гонцы\obj\Debug\net6.0\Гонцы.pdb
+C:\Users\KRVC\RiderProjects\Гонцы\Гонцы\obj\Debug\net6.0\Гонцы.genruntimeconfig.cache
+C:\Users\KRVC\RiderProjects\Гонцы\Гонцы\obj\Debug\net6.0\ref\Гонцы.dll
